@@ -107,6 +107,4 @@ debugged against an HPC cluster with Duo 2FA.
 
 ## License
 
-No license chosen yet — all rights reserved by default. Add a `LICENSE`
-file if you want to make the code reusable (MIT and Apache-2.0 are common
-choices for tools like this).
+[MIT](LICENSE) © 2026 Nadav Kunievsky.
